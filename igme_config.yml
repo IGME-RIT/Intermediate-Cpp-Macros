@@ -1,0 +1,14 @@
+series: Intermediate C++
+title: Macros
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Macros are really cool, but they can also be easily misused.
+language: C++
+tags:
+  - Core
+extra_resources:
+connections:
+  - series: Intermediate C++
+    title: Enums
