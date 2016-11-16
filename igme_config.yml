@@ -9,6 +9,8 @@ language: C++
 tags:
   - Core
 extra_resources:
+    link: http://stackoverflow.com/questions/14041453/why-are-preprocessor-macros-evil-and-what-are-the-alternatives
+    title: The Evils of Macros
 connections:
   - series: Intermediate C++
     title: Enums
