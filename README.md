@@ -1,4 +1,4 @@
-# Basic C++: Macros
+# Intermediate C++: Macros
 
 Macros are really cool, and you can do a lot of awesome things with them.
 On the other hand, they can be incredibly dangerous, and using them carelessly will almost always end badly.
