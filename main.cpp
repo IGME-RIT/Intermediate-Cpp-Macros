@@ -47,7 +47,7 @@ int main()
         cout << "Average(4, 7): " << Average(4, 7) << endl;
 
         // When the compiler is done preprocessing, the code will look something like this:
-        cout << "(3 + 7) / 2: " << (3 + 7) / 2 << endl;
+        cout << "(4 + 7) / 2: " << (4 + 7) / 2 << endl;
 
         // Which is particularly convenient, because we can put in floating point types, and it will print out a float!
         cout << "Average(4.f, 7.f): " << Average(4.f, 7.f) << endl;
